@@ -1,4 +1,5 @@
 Problem Statement:
+
 Analysis of country-specific data and development of machine learning models in order to predict CO2 emissions from country parameters. The project uses the publicly available dataset Climate Change Data from the World Bank Group, which provides data on the vast majority of countries over a range of years for parameters such as:
 
 country: the vast majority of countries worldwide
@@ -15,4 +16,5 @@ The project is divided into two stages:
 
 Data cleaning and preparation
 Data exploration and Predictive analysis
+
 Each of the stages is described in a separate Jupyter Notebook(.ipynp file) and a derived pdf file.
