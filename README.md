@@ -55,6 +55,8 @@ The used data comes from the Climate Change Data of the World Bank Group, which 
 
 The dataset is publicly available at https://datacatalog.worldbank.org/dataset/climate-change-data and licenced under the <a href="https://datacatalog.worldbank.org/public-licenses#cc-by">Creative Commons Attribution 4.0 International license</a>.
 
+***
+
 ## Stage 2: Data exploration and visualization
 
 ***
