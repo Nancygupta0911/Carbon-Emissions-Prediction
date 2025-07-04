@@ -95,3 +95,43 @@ You can find the screenshots in the `/screenshots` folder:
    ```bash
    git clone https://github.com/Nancygupta0911/Carbon-Emissions-Prediction.git
    cd Carbon-Emissions-Prediction
+
+ 2. Install required packages
+     ```bash
+     pip install -r requirements.txt
+ 3. Run the notebook
+    Open carbon_emission_prediction.ipynb in Jupyter Notebook.
+    
+## ✅ Results
+
+-The model successfully learned the patterns in CO₂ emissions based on selected features.
+
+-Predictions closely matched real-world values.
+
+-Visualizations helped in validating model accuracy and feature relationships.
+
+## 🎯 Conclusion & Future Work
+
+This project demonstrates how machine learning can be used to build predictive models for climate and environmental data.
+Future Improvements:
+
+-Use advanced models like Random Forest or XGBoost
+
+-Integrate deep learning for time-series forecasting
+
+-Include renewable energy and transport-related features
+
+-Deploy using a web app (Streamlit or Flask)
+
+## 📥 Project PPT
+
+[➡️ Click here to download the Project PPT]("https://1drv.ms/p/c/106ab49d1e82e288/EbhR0QsWiWRDl4UOhAbWD7IBOP7MAmnXJNFMWaexOmWmCg?e=G9o3Zb")
+
+## 🙋‍♀️ Author
+Nancy Gupta
+AICTE Edunet Internship 
+📫 nancygupta0911@gmail.com
+🌐 [LinkedIn ](https://www.linkedin.com/in/nancy-gupta-597100288/)
+
+    
+    
