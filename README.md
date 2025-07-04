@@ -66,7 +66,7 @@ Carbon emissions have become a major global concern contributing to climate chan
 ## 📊 Model Performance
 
 - **Model Used:** Linear Regression  
-- **R² Score:** ~0.97  
+- **R² Score:** ~0.99
 - **Mean Squared Error (MSE):** Low  
 - **Train-Test Split:** 80:20
 
