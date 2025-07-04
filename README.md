@@ -1,83 +1,97 @@
-# **Prediction of CO2 emissions from country-specific data**
+# 🌍 Carbon Emissions Prediction using Machine Learning
 
-## Problem Statement:
+This project focuses on building a supervised machine learning model to predict **carbon dioxide (CO₂) emissions** using real-world socio-economic and energy data. The aim is to support environmental forecasting and sustainable policy planning using data-driven insights.
 
-Analysis of country-specific data and development of machine learning models in order to predict CO2 emissions from country parameters. The project uses the publicly available dataset Climate Change Data from the World Bank Group, which provides data on the vast majority of countries over a range of years for parameters such as:
+---
 
-* country: the vast majority of countries worldwide
-* year: ranging from 1990 to 2011
-* various emissions of greenhouse gases such as CO2, CH4, N2O, others
-* population-specific parameters: population count, urban population, population growth, etc.
-* country economic indicators: GDP, GNI, Foreign Direct Investment, etc.
-* land-related parameters: cereal yield, agricultural land, Nationally terrestrial protected areas, etc.
-* climate data: precipitations, national disasters, etc.
-* energy use
-* counts of certain types of medical personnel
-* etc.
+## 📌 Table of Contents
+- [About the Project](#about-the-project)
+- [Dataset](#dataset)
+- [Technologies Used](#technologies-used)
+- [Project Workflow](#project-workflow)
+- [Model Performance](#model-performance)
+- [Visualizations](#visualizations)
+- [Output Screenshots](#output-screenshots)
+- [How to Run](#how-to-run)
+- [Results](#results)
+- [Conclusion & Future Work](#conclusion--future-work)
+- [Project PPT](#project-ppt)
+- [Author](#author)
 
-The project is divided into two stages:
+---
 
-1. Data cleaning and preparation
-2. Data exploration and Predictive analysis
+## 📖 About the Project
 
-Each of the stages is described in a separate Jupyter Notebook(.ipynp file) and a derived pdf file.
+Carbon emissions have become a major global concern contributing to climate change. This project uses machine learning to predict CO₂ emissions based on features such as **GDP**, **population**, and **energy consumption**. A **Linear Regression** model is trained and evaluated on real-world data to provide accurate, scalable, and interpretable predictions.
 
-***
+---
 
-## Stage 1: Data cleaning and preparation
+## 📂 Dataset
 
-***
+- Source: [Insert Source or say "Kaggle/Public Dataset"]
+- Features:
+  - GDP
+  - Population
+  - Energy Consumption
+  - CO₂ Emissions (Target)
 
-#### Notebook Contents:
-0. Introduction - project and notebook summary, notes on the data source
-1. Notebook setup - libraries and data import
-2. Global data overview
-3. Definition of the initial project goals
-3. Data cleaning
-    - dealing with missing values
-    - transformation of the columns into a numerical data type
-    - renaming of features
-    - removing empty columns and rows
-4. Data frame transformation
-    - melting of the data for each variable
-    - integration of the data into a suitable data frame format
-5. Removal of missing values
-    - detection of missing values
-    - removal of missing values by filtering the columns and rows, so that minimal amount of features and rows are lost
-5. Export the clean data frame to a file
+---
 
-***
+## 💻 Technologies Used
 
-### Data source
+| Tool            | Purpose                        |
+|-----------------|--------------------------------|
+| Python          | Programming language           |
+| Jupyter Notebook| Development environment        |
+| Pandas, NumPy   | Data manipulation              |
+| Matplotlib, Seaborn | Data visualization         |
+| Scikit-learn    | Machine learning & evaluation  |
+| Git & GitHub    | Version control                |
 
-The used data comes from the Climate Change Data of the World Bank Group, which provides country-specific data on parameters such as CO2 emissions, energy use, population count, urban population, cereal yield, nationally terrestrial protected areas, GDP, GNI, etc.
+---
 
+## 🔄 Project Workflow
 
-The dataset is publicly available at https://datacatalog.worldbank.org/dataset/climate-change-data and licenced under the <a href="https://datacatalog.worldbank.org/public-licenses#cc-by">Creative Commons Attribution 4.0 International license</a>.
+1. Data Collection & Loading  
+2. Data Cleaning & Preprocessing  
+3. Exploratory Data Analysis (EDA)  
+4. Feature Selection  
+5. Model Selection: **Linear Regression**  
+6. Model Training & Evaluation  
+7. Visualization of Results  
+8. Output Analysis  
 
-***
+---
 
-## Stage 2: Data exploration and visualization
+## 📊 Model Performance
 
-***
+- **Model Used:** Linear Regression  
+- **R² Score:** ~0.97  
+- **Mean Squared Error (MSE):** Low  
+- **Train-Test Split:** 80:20
 
-### Notebook Contents:
-0. Introduction
-1. Notebook setup - libraries and data import, notes on the data source
-2. Global data overview
-3. Feature/column abbreviations and units
-4. Definition of the hypothesis to be tested
-5. Feature engineering
-    - features overview
-    - derivation of additional important features
-    - removal of unnecessary features
-6. Prepare the visualization
-7. Create plots
-    - a global look onto all relationships and detailed plots of chosen dependencies
-    - correlation matrix heatmaps
-    - scatterplots, histograms
-    - detection of outliers
-    - discussion of dependencies and trends
-8. Conclusions
+---
 
-***
+## 📈 Visualizations
+
+- Correlation Heatmap  
+- Actual vs Predicted Emissions Plot  
+- Feature Distributions  
+- Regression Line Fit
+
+---
+
+## 📸 Output Screenshots
+
+You can find the screenshots in the `/screenshots` folder:
+- `actual_vs_predicted.png`
+- `heatmap.png`
+
+---
+
+## ▶️ How to Run
+
+1. Clone the repository  
+   ```bash
+   git clone https://github.com/Nancygupta0911/Carbon-Emissions-Prediction.git
+   cd Carbon-Emissions-Prediction
