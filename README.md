@@ -11,7 +11,6 @@ This project focuses on building a supervised machine learning model to predict 
 - [Project Workflow](#project-workflow)
 - [Model Performance](#model-performance)
 - [Visualizations](#visualizations)
-- [Output Screenshots](#output-screenshots)
 - [How to Run](#how-to-run)
 - [Results](#results)
 - [Conclusion & Future Work](#conclusion--future-work)
@@ -78,14 +77,6 @@ Carbon emissions have become a major global concern contributing to climate chan
 - Actual vs Predicted Emissions Plot  
 - Feature Distributions  
 - Regression Line Fit
-
----
-
-## 📸 Output Screenshots
-
-You can find the screenshots in the `/screenshots` folder:
-- `actual_vs_predicted.png`
-- `heatmap.png`
 
 ---
 
