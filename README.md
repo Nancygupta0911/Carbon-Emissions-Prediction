@@ -93,6 +93,7 @@ Carbon emissions have become a major global concern contributing to climate chan
  3. Run the notebook
     
     Open carbon_emission_prediction.ipynb in Jupyter Notebook.
+ ---
     
 ## ✅ Results
 
@@ -101,6 +102,7 @@ Carbon emissions have become a major global concern contributing to climate chan
 - Predictions closely matched real-world values.
 
 - Visualizations helped in validating model accuracy and feature relationships.
+---
 
 ## 🎯 Conclusion & Future Work
 
@@ -114,11 +116,13 @@ Future Improvements:
 - Include renewable energy and transport-related features
 
 - Deploy using a web app (Streamlit or Flask)
+---
 
 ## 📥 Project PPT
 
 [➡️ Click here to download the Project PPT](https://1drv.ms/p/c/106ab49d1e82e288/EbhR0QsWiWRDl4UOhAbWD7IBOP7MAmnXJNFMWaexOmWmCg?e=AGtXXL)
 
+ ---
 ## 🙋‍♀️ Author
 Nancy Gupta
 
@@ -128,5 +132,6 @@ AICTE Edunet Internship
 
 🌐 [LinkedIn ](https://www.linkedin.com/in/nancy-gupta-597100288/)
 
+---
     
     
