@@ -28,7 +28,7 @@ Carbon emissions have become a major global concern contributing to climate chan
 
 ## 📂 Dataset
 
-- Source: [Insert Source or say "Kaggle/Public Dataset"]
+- [Source:](https://1drv.ms/x/c/106ab49d1e82e288/EZJaZeTwLitOqVHThLMlQKwBZojxnu9v1ebstCEneDRm1w?e=0lrUlQ)
 - Features:
   - GDP
   - Population
@@ -104,28 +104,28 @@ You can find the screenshots in the `/screenshots` folder:
     
 ## ✅ Results
 
--The model successfully learned the patterns in CO₂ emissions based on selected features.
+The model successfully learned the patterns in CO₂ emissions based on selected features.
 
--Predictions closely matched real-world values.
+Predictions closely matched real-world values.
 
--Visualizations helped in validating model accuracy and feature relationships.
+Visualizations helped in validating model accuracy and feature relationships.
 
 ## 🎯 Conclusion & Future Work
 
 This project demonstrates how machine learning can be used to build predictive models for climate and environmental data.
 Future Improvements:
 
--Use advanced models like Random Forest or XGBoost
+Use advanced models like Random Forest or XGBoost
 
--Integrate deep learning for time-series forecasting
+Integrate deep learning for time-series forecasting
 
--Include renewable energy and transport-related features
+Include renewable energy and transport-related features
 
--Deploy using a web app (Streamlit or Flask)
+Deploy using a web app (Streamlit or Flask)
 
 ## 📥 Project PPT
 
-[➡️ Click here to download the Project PPT]("https://1drv.ms/p/c/106ab49d1e82e288/EbhR0QsWiWRDl4UOhAbWD7IBOP7MAmnXJNFMWaexOmWmCg?e=G9o3Zb")
+[➡️ Click here to download the Project PPT]((https://1drv.ms/p/c/106ab49d1e82e288/EbhR0QsWiWRDl4UOhAbWD7IBOP7MAmnXJNFMWaexOmWmCg?e=mGUy7s))
 
 ## 🙋‍♀️ Author
 Nancy Gupta
