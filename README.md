@@ -126,12 +126,14 @@ Future Improvements:
 
 ## 📥 Project PPT
 
-[➡️ Click here to download the Project PPT]((https://1drv.ms/p/c/106ab49d1e82e288/EbhR0QsWiWRDl4UOhAbWD7IBOP7MAmnXJNFMWaexOmWmCg?e=mGUy7s))
+[➡️ Click here to download the Project PPT](https://1drv.ms/p/c/106ab49d1e82e288/EbhR0QsWiWRDl4UOhAbWD7IBOP7MAmnXJNFMWaexOmWmCg?e=AGtXXL)
 
 ## 🙋‍♀️ Author
 Nancy Gupta
 AICTE Edunet Internship 
+
 📫 nancygupta0911@gmail.com
+
 🌐 [LinkedIn ](https://www.linkedin.com/in/nancy-gupta-597100288/)
 
     
